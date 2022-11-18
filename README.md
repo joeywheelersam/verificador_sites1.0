@@ -2,14 +2,14 @@
 This application accesses the urls and checks if the status code is 200, giving it as online, if the status code is different from 200, it informs that the site is offline.
 
 ## Source Code
-You can also download [Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites1.0.git) directly from its [Git repository](https://github.com/joeywheelersam/verificador_sites1.0):
+You can also download [Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites_1.0.git) directly from its [Git repository](https://github.com/joeywheelersam/verificador_sites_1.0):
 
 ```
-git clone https://github.com/joeywheelersam/verificador_sites1.0.git
+git clone https://github.com/joeywheelersam/verificador_sites_1.0.git
 ```
 
 ## Dependencies
-[Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites1.0) works out of the box with [Python 3.10](https://www.python.org/downloads/release/python-3100/) on any platform and requires the following packages:
+[Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites_1.0) works out of the box with [Python 3.10](https://www.python.org/downloads/release/python-3100/) on any platform and requires the following packages:
 - [Requests 2.28.1+](https://pypi.org/project/requests/)
 
 ## Installation
@@ -30,4 +30,4 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-[Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites1.0) is free software, keeping the picture can USE AND ABUSE 
+[Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites_1.0) is free software, keeping the picture can USE AND ABUSE 
