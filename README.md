@@ -9,7 +9,7 @@ git clone https://github.com/joeywheelersam/verificador_sites1.0
 ```
 
 ## Dependencies
-[Verificador de Sites 1.0](https://github.com/joeywheelersam/maratona-python/tree/master/Desafios/04) works out of the box with [Python 3.10](https://www.python.org/downloads/release/python-3100/) on any platform and requires the following packages:
+[Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites1.0) works out of the box with [Python 3.10](https://www.python.org/downloads/release/python-3100/) on any platform and requires the following packages:
 - [Requests 2.28.1+](https://pypi.org/project/requests/)
 
 ## Installation
