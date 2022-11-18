@@ -2,10 +2,10 @@
 This application accesses the urls and checks if the status code is 200, giving it as online, if the status code is different from 200, it informs that the site is offline.
 
 ## Source Code
-You can also download [Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites1.0) directly from its [Git repository](https://github.com/joeywheelersam/verificador_sites1.0):
+You can also download [Verificador de Sites 1.0](https://github.com/joeywheelersam/verificador_sites1.0.git) directly from its [Git repository](https://github.com/joeywheelersam/verificador_sites1.0):
 
 ```
-git clone https://github.com/joeywheelersam/verificador_sites1.0
+git clone https://github.com/joeywheelersam/verificador_sites1.0.git
 ```
 
 ## Dependencies
